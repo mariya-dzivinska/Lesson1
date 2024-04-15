@@ -9,5 +9,7 @@ namespace Lesson1
     internal class Day
     {
         public Day() { }
+
+        public string DayOfWeek { get; set; }
     }
 }
