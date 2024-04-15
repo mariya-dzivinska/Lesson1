@@ -11,7 +11,5 @@ namespace Lesson1
         public Day() { }
 
         public string DayOfWeek { get; set; }
-        public string Title { get; set; }
-        public string Month { get; set; }
     }
 }
