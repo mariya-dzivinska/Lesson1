@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lesson1
 {
-    public class Day
+    internal class Day
     {
-        public string DayOfWeek { get; set; }
     }
 }
