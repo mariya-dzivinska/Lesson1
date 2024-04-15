@@ -8,5 +8,6 @@ namespace Lesson1
 {
     internal class Day
     {
+        public Day() { }
     }
 }
